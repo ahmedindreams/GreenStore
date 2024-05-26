@@ -1,0 +1,100 @@
+.nav-item{
+  padding: 5px 18px;
+}
+
+#hero{
+
+  background: rgba(000, 000, 000, 0.5) url('../hero-section-bg.jpg');
+  background-size: cover;
+  background-blend-mode: darken;
+
+  height: 800px;
+
+
+}
+
+.nav-item .nav-link{
+  color :white;
+}
+
+.navbar .navbar-brand{
+  color: white;
+}
+
+ .content{
+  text-align: center;
+  color: white;
+  padding:10% 10%;
+  line-height: 2;
+}
+
+#NewPlants{
+  margin: 5% 15%;
+
+}
+
+
+.plantimg {
+  width: 70%;
+  height: 70%;
+}
+
+/* our story */
+
+.our-story-background{
+  background:  url('../plants-store-story-section-img.jpg');
+  background-repeat: no-repeat;
+}
+
+.our-story-text{
+  padding:20% ;
+  
+
+}
+
+/* our-customers */
+.our-customers{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.hr{
+  background-color: green;
+  text-align: center;
+  height: 2px;
+  width: 50px;
+
+}
+
+.quote{
+  color: lightgreen;
+  font-size: 40px;
+}
+
+/* gift card */
+#gift-card{
+  background: rgba(000, 000, 000, 0.5) url('../plants-store-hero-section-img-bg.jpg');
+  background-size: cover;
+  background-blend-mode: darken;
+
+  height: 600px;
+}
+/* footer */
+
+#footer{
+
+  background-color: rgb(20,26,15);
+}
+
+.footer-text{
+  color: white;
+
+}
+
+.fa-instagram{
+justify-content: space-between;
+}
+
+.footer-a{
+  font-size: 10px;
+}
